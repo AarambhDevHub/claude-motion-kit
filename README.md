@@ -107,5 +107,3 @@ The plates find their words by content (`lineOf` and `wordOf`). If you keep the 
 ## License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
-Core animation engine adapted under the MIT License (see [LICENSE.pdoom-engine](LICENSE.pdoom-engine)).
